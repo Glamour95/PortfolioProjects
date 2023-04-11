@@ -1,6 +1,10 @@
 # PortfolioProjects
+
 COVID-19 Data Analysis Project
-This project analyzes COVID-19 data using SQL queries. The data is sourced from the Our World in Data website and contains information on COVID-19 cases, deaths, hospitalizations, and vaccinations from countries around the world.
+
+This project analyzes COVID-19 data using SQL queries.
+
+The data is sourced from the Our World in Data website and contains information on COVID-19 cases, deaths, hospitalizations, and vaccinations from countries around the world.
 
 Data
 The data used in this project is stored in a CSV file named "owid-covid-data.csv". The CSV file is located in the "data" folder of this repository. The CSV file contains the following columns:
